@@ -1,5 +1,5 @@
 {
-    "version": "9",
+    "version": "10",
     "scanners": [
         {
             "code": 0,
@@ -172,6 +172,19 @@
                 {
                     "scanner": 2,
                     "keywords": [ "accurately reflects the submitted" ]
+                }
+            ]
+        },
+        {
+            "code": 341,
+            "title": "data.pedestrian",
+            "iconFA": "\uf554",
+            "iconSF": "figure.walk",
+            "color": "#B084AC",
+            "keywords": [
+                {
+                    "scanner": 2,
+                    "keywords": [ "acceptable pedestrian pathway" ]
                 }
             ]
         },

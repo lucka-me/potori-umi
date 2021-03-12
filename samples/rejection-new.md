@@ -84,6 +84,17 @@ Insufficient evidence that the nomination accurately reflects the submitted real
 </p>
 </details>
 
+### Pedestrian
+<details><summary>en</summary>
+<p>
+
+```
+The real-world location of the nomination could not be confirmed to have an acceptable pedestrian pathway leading up to it
+```
+
+</p>
+</details>
+
 ### Private
 <details><summary>en</summary>
 <p>
