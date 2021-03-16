@@ -1,5 +1,5 @@
-# Samples
-Ingress Prime mails samples.
+# Prime
+Mail samples from Ingress Prime.
 
 ## Contents
 - [Confirmation](./confirmation.md)
