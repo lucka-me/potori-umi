@@ -1,5 +1,5 @@
 {
-    "version": "10",
+    "version": "11",
     "scanners": [
         {
             "code": 0,
@@ -23,7 +23,7 @@
             "queries": [
                 {
                     "scanner": 1,
-                    "query": "from:ingress-support@nianticlabs.com Portal submission confirmation -edit -photo"
+                    "query": "{from:ingress-support@nianticlabs.com from:ingress-support@google.com} {subject:\"Portal submission confirmation\" subject:\"Ingress Portal Submitted\"} -edit -photo"
                     
                 },
                 {
@@ -40,7 +40,7 @@
             "queries": [
                 {
                     "scanner": 1,
-                    "query": "from:ingress-support@nianticlabs.com Portal review complete now available -edit -photo"
+                    "query": "{from:ingress-support@nianticlabs.com from:ingress-support@google.com} {subject:\"Portal review complete\" subject:\"Ingress Portal Live\"} {\"now available\" \"will be enabled\"} -edit -photo"
                 },
                 {
                     "scanner": 2,
@@ -56,7 +56,7 @@
             "queries": [
                 {
                     "scanner": 1,
-                    "query": "from:ingress-support@nianticlabs.com Portal review complete reviewed -edit -photo"
+                    "query": "{from:ingress-support@nianticlabs.com from:ingress-support@google.com} subject:{\"Portal review complete\" \"Ingress Portal Rejected\" \"Ingress Portal Duplicate\"} {reviewed duplicate} -edit -photo -AP"
                 },
                 {
                     "scanner": 2,
@@ -83,7 +83,7 @@
             "keywords": [
                 {
                     "scanner": 1,
-                    "keywords": [ "duplicate of either an existing Portal" ]
+                    "keywords": [ "duplicate of either an existing Portal", "duplicate of an existing Portal" ]
                 },
                 {
                     "scanner": 2,
@@ -100,7 +100,7 @@
             "keywords": [
                 {
                     "scanner": 1,
-                    "keywords": [ "too close to an existing Portal" ]
+                    "keywords": [ "is too close to an existing Portal" ]
                 },
                 {
                     "scanner": 2,

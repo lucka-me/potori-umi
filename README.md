@@ -5,6 +5,10 @@ We use mail samples to figure out how to:
 - Query all related and localized mails exactly
 - Identify each reason from rejection mails
 
+Available Scanners:
+- [Redacted](./samples/Redacted)
+- [Prime](./samples/Prime)
+
 ## Changelog
 See [CHANGELOG.md](./CHANGELOG.md).
 

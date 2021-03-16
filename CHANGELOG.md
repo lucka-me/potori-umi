@@ -1,9 +1,17 @@
 # Changelog
 Noteable changes of Potori Umi will be documented here.
 
+## `11` - 2021-03-16
+### Added
+- Support for nominations from Redacted before 2016
+
+
 ## `10` - 2021-03-12
 ### Added
 - Reason: Pedestrian
+
+<details><summary>Earlier</summary>
+<p>
 
 ## `9` - 2021-03-06
 ### Added
@@ -13,8 +21,6 @@ Noteable changes of Potori Umi will be documented here.
 ### Changed
 - Reason codes
 
-<details><summary>Earlier</summary>
-<p>
 
 ## `8` - 2020-10-15
 ### Changed
