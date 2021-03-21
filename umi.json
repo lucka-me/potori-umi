@@ -1,5 +1,5 @@
 {
-    "version": "11",
+    "version": "12",
     "scanners": [
         {
             "code": 0,
@@ -177,7 +177,7 @@
         },
         {
             "code": 341,
-            "title": "data.pedestrian",
+            "title": "data.locationPedestrian",
             "iconFA": "\uf554",
             "iconSF": "figure.walk",
             "color": "#B084AC",
