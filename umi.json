@@ -113,7 +113,7 @@
             "code": 221,
             "title": "data.criteriaBodypart",
             "iconFA": "\uf259",
-            "iconSF": "xmark.circle",
+            "iconSF": "hand.wave",
             "color": "#F7BB7D",
             "keywords": [ ]
         },
@@ -134,7 +134,7 @@
             "code": 231,
             "title": "data.criteriaAnimals",
             "iconFA": "\uf6be",
-            "iconSF": "xmark.circle",
+            "iconSF": "hare",
             "color": "#E08A1E",
             "keywords": [ ]
         },
@@ -155,7 +155,7 @@
             "code": 241,
             "title": "data.criteriaPeople",
             "iconFA": "\uf007",
-            "iconSF": "xmark.circle",
+            "iconSF": "figure.stand",
             "color": "#FFB95A",
             "keywords": [ ]
         },
@@ -190,7 +190,7 @@
             "code": 321,
             "title": "data.locationInappropriate",
             "iconFA": "\uf256",
-            "iconSF": "xmark.circle",
+            "iconSF": "hand.raised.fill",
             "color": "#86ABA5",
             "keywords": [ ]
         },
@@ -198,7 +198,7 @@
             "code": 326,
             "title": "data.locationSensitive",
             "iconFA": "\uf7b9",
-            "iconSF": "xmark.circle",
+            "iconSF": "burn",
             "color": "#48929B",
             "keywords": [ ]
         },
@@ -219,7 +219,7 @@
             "code": 336,
             "title": "data.locationEmergency",
             "iconFA": "\uf0f9",
-            "iconSF": "xmark.circle",
+            "iconSF": "staroflife",
             "color": "#006C7F",
             "keywords": [ ]
         },
@@ -253,7 +253,7 @@
             "code": 351,
             "title": "data.locationSchool",
             "iconFA": "\uf549",
-            "iconSF": "xmark.circle",
+            "iconSF": "book",
             "color": "#1F4788",
             "keywords": [ ]
         },
@@ -262,7 +262,7 @@
             "code": 421,
             "title": "data.photoFace",
             "iconFA": "\uf579",
-            "iconSF": "xmark.circle",
+            "iconSF": "person.fill.viewfinder",
             "color": "#875F9A",
             "keywords": [ ]
         },
@@ -296,7 +296,7 @@
             "code": 436,
             "title": "data.photoDir",
             "iconFA": "\uf021",
-            "iconSF": "xmark.circle",
+            "iconSF": "rotate.left",
             "color": "#5B3256",
             "keywords": [ ]
         },
@@ -304,7 +304,7 @@
             "code": 441,
             "title": "data.photoTag",
             "iconFA": "\uf3e0",
-            "iconSF": "xmark.circle",
+            "iconSF": "person.crop.square",
             "color": "#763568",
             "keywords": [ ]
         },
@@ -312,7 +312,7 @@
             "code": 446,
             "title": "data.photo3p",
             "iconFA": "\uf1f9",
-            "iconSF": "xmark.circle",
+            "iconSF": "c.circle",
             "color": "#FF0000",
             "keywords": [ ]
         },
@@ -320,7 +320,7 @@
             "code": 451,
             "title": "data.photoWatermark",
             "iconFA": "\uf02b",
-            "iconSF": "xmark.circle",
+            "iconSF": "tag",
             "color": "#BB7796",
             "keywords": [ ]
         },
@@ -329,7 +329,7 @@
             "code": 521,
             "title": "data.textEmoji",
             "iconFA": "\uf588",
-            "iconSF": "xmark.circle",
+            "iconSF": "face.smiling",
             "color": "#9F7462",
             "keywords": [ ]
         },
@@ -337,7 +337,7 @@
             "code": 526,
             "title": "data.textBad",
             "iconFA": "\uf039",
-            "iconSF": "xmark.circle",
+            "iconSF": "text.justify",
             "color": "#B64925",
             "keywords": [ ]
         },
@@ -345,7 +345,7 @@
             "code": 531,
             "title": "data.textMarkup",
             "iconFA": "\uf121",
-            "iconSF": "xmark.circle",
+            "iconSF": "chevron.left.slash.chevron.right",
             "color": "#F57F4F",
             "keywords": [ ]
         },
@@ -354,7 +354,7 @@
             "code": 621,
             "title": "data.abuseFake",
             "iconFA": "\uf6e2",
-            "iconSF": "xmark.circle",
+            "iconSF": "questionmark.square.dashed",
             "color": "#B95754",
             "keywords": [ ]
         },
@@ -362,7 +362,7 @@
             "code": 626,
             "title": "data.abuseAbuse",
             "iconFA": "\ue064",
-            "iconSF": "xmark.circle",
+            "iconSF": "trash",
             "color": "#C91F37",
             "keywords": [ ]
         },
@@ -370,7 +370,7 @@
             "code": 631,
             "title": "data.abuseExplicit",
             "iconFA": "\uf5a5",
-            "iconSF": "xmark.circle",
+            "iconSF": "eye.slash",
             "color": "#9D2933",
             "keywords": [ ]
         },
@@ -378,7 +378,7 @@
             "code": 636,
             "title": "data.abuseOffensive",
             "iconFA": "\uf556",
-            "iconSF": "xmark.circle",
+            "iconSF": "hand.thumbsdown",
             "color": "#7B3B3A",
             "keywords": [ ]
         },
@@ -386,7 +386,7 @@
             "code": 641,
             "title": "data.abusePersonal",
             "iconFA": "\uf21b",
-            "iconSF": "xmark.circle",
+            "iconSF": "person.crop.square.fill.and.at.rectangle",
             "color": "#97645A",
             "keywords": [ ]
         }
