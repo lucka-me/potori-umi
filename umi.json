@@ -110,6 +110,14 @@
         },
 
         {
+            "code": 221,
+            "title": "data.criteriaBodypart",
+            "iconFA": "\uf259",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
             "code": 226,
             "title": "data.criteriaCriteria",
             "iconFA": "\uf05e",
@@ -123,6 +131,14 @@
             ]
         },
         {
+            "code": 231,
+            "title": "data.criteriaAnimals",
+            "iconFA": "\uf6be",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
             "code": 236,
             "title": "data.criteriaNatural",
             "iconFA": "\uf06c",
@@ -134,6 +150,14 @@
                     "keywords": [ "be a natural feature" ]
                 }
             ]
+        },
+        {
+            "code": 241,
+            "title": "data.criteriaPeople",
+            "iconFA": "\uf007",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
         },
         {
             "code": 246,
@@ -163,6 +187,22 @@
         },
 
         {
+            "code": 321,
+            "title": "data.locationInappropriate",
+            "iconFA": "\uf256",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 326,
+            "title": "data.locationSensitive",
+            "iconFA": "\uf7b9",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
             "code": 331,
             "title": "data.locationMismatched",
             "iconFA": "\uf041",
@@ -174,6 +214,14 @@
                     "keywords": [ "accurately reflects the submitted" ]
                 }
             ]
+        },
+        {
+            "code": 336,
+            "title": "data.locationEmergency",
+            "iconFA": "\uf0f9",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
         },
         {
             "code": 341,
@@ -201,7 +249,23 @@
                 }
             ]
         },
+        {
+            "code": 351,
+            "title": "data.locationSchool",
+            "iconFA": "\uf549",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
         
+        {
+            "code": 421,
+            "title": "data.photoFace",
+            "iconFA": "\uf579",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
         {
             "code": 426,
             "title": "data.photoPlate",
@@ -227,6 +291,104 @@
                    "keywords": [ "Photo is low quality" ]
                 }
             ]
+        },
+        {
+            "code": 436,
+            "title": "data.photoDir",
+            "iconFA": "\uf021",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 441,
+            "title": "data.photoTag",
+            "iconFA": "\uf3e0",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 446,
+            "title": "data.photo3p",
+            "iconFA": "\uf1f9",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 451,
+            "title": "data.photoWatermark",
+            "iconFA": "\uf02b",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+
+        {
+            "code": 521,
+            "title": "data.textEmoji",
+            "iconFA": "\uf588",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 526,
+            "title": "data.textBad",
+            "iconFA": "\uf039",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 531,
+            "title": "data.textMarkup",
+            "iconFA": "\uf121",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+
+        {
+            "code": 621,
+            "title": "data.abuseFake",
+            "iconFA": "\uf6e2",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 626,
+            "title": "data.abuseAbuse",
+            "iconFA": "\ue064",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 631,
+            "title": "data.abuseExplicit",
+            "iconFA": "\uf5a5",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 636,
+            "title": "data.abuseOffensive",
+            "iconFA": "\uf556",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
+        },
+        {
+            "code": 641,
+            "title": "data.abusePersonal",
+            "iconFA": "\uf21b",
+            "iconSF": "xmark.circle",
+            "color": "#FF0000",
+            "keywords": [ ]
         }
     ]
 }

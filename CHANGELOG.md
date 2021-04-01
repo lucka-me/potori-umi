@@ -4,7 +4,7 @@ Noteable changes of Potori Umi will be documented here.
 ## `13` - 2021-04-TBA
 ### Added
 - Reason: Duplicated - zh
-
+- All other reasons in Wayfarer, without keywords
 
 ## `12` - 2021-03-21
 ### Fixed
