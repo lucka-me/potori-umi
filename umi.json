@@ -1,5 +1,5 @@
 {
-    "version": "12",
+    "version": "13",
     "scanners": [
         {
             "code": 0,
@@ -87,7 +87,7 @@
                 },
                 {
                     "scanner": 2,
-                    "keywords": [ "duplicate of an existing Portal" ]
+                    "keywords": [ "duplicate of an existing Portal", "和現有能量塔重復" ]
                 }
             ]
         },

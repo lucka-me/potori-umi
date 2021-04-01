@@ -1,17 +1,22 @@
 # Changelog
 Noteable changes of Potori Umi will be documented here.
 
+## `13` - 2021-04-TBA
+### Added
+- Reason: Duplicated - zh
+
+
 ## `12` - 2021-03-21
 ### Fixed
 - Title key of reason: Pedestrian
 
+<details><summary>Earlier</summary>
+<p>
 
 ## `11` - 2021-03-16
 ### Added
 - Support for nominations from Redacted before 2016
 
-<details><summary>Earlier</summary>
-<p>
 
 ## `10` - 2021-03-12
 ### Added

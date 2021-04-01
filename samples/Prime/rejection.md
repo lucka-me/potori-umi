@@ -108,6 +108,26 @@ Your Portal submission has been reviewed and we’re not able to bring this cand
 </p>
 </details>
 
+<details><summary>zh</summary>
+<p>
+
+```
+Subject: [能量塔審查完畢：<PORTAL-TITLE>]
+----------
+
+您提交的能量塔已審核完畢，但由於此候選能量塔和現有能量塔重復，因此我們目前無法將此能量塔上線。您提交的相片已並入現有的能量塔資訊。
+
+-NianticOps
+
+<PORTAL-TITLE>
+<PORTAL-DESCRIPTION>
+
+<PHOTO-URL>
+```
+
+</p>
+</details>
+
 ## Too Close
 <details><summary>en</summary>
 <p>
