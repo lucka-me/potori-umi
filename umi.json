@@ -114,7 +114,7 @@
             "title": "data.criteriaBodypart",
             "iconFA": "\uf259",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#F7BB7D",
             "keywords": [ ]
         },
         {
@@ -122,7 +122,7 @@
             "title": "data.criteriaCriteria",
             "iconFA": "\uf05e",
             "iconSF": "xmark.octagon",
-            "color": "#B80233",
+            "color": "#FFA400",
             "keywords": [
                 {
                     "scanner": 2,
@@ -135,7 +135,7 @@
             "title": "data.criteriaAnimals",
             "iconFA": "\uf6be",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#E08A1E",
             "keywords": [ ]
         },
         {
@@ -143,7 +143,7 @@
             "title": "data.criteriaNatural",
             "iconFA": "\uf06c",
             "iconSF": "leaf",
-            "color": "#5F8FAD",
+            "color": "#CB7E1F",
             "keywords": [
                 {
                     "scanner": 2,
@@ -156,7 +156,7 @@
             "title": "data.criteriaPeople",
             "iconFA": "\uf007",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#FFB95A",
             "keywords": [ ]
         },
         {
@@ -164,7 +164,7 @@
             "title": "data.criteriaTemporary",
             "iconFA": "\uf1da",
             "iconSF": "circle.dashed",
-            "color": "#647372",
+            "color": "#CE9F6F",
             "keywords": [
                 {
                     "scanner": 2,
@@ -177,7 +177,7 @@
             "title": "data.criteriaGeneric",
             "iconFA": "\uf54e",
             "iconSF": "shippingbox",
-            "color": "#F0C649",
+            "color": "#FFB61E",
             "keywords": [
                 {
                     "scanner": 2,
@@ -191,7 +191,7 @@
             "title": "data.locationInappropriate",
             "iconFA": "\uf256",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#86ABA5",
             "keywords": [ ]
         },
         {
@@ -199,7 +199,7 @@
             "title": "data.locationSensitive",
             "iconFA": "\uf7b9",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#48929B",
             "keywords": [ ]
         },
         {
@@ -207,7 +207,7 @@
             "title": "data.locationMismatched",
             "iconFA": "\uf041",
             "iconSF": "mappin.slash",
-            "color": "#C28282",
+            "color": "#94A8B0",
             "keywords": [
                 {
                     "scanner": 2,
@@ -220,7 +220,7 @@
             "title": "data.locationEmergency",
             "iconFA": "\uf0f9",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#006C7F",
             "keywords": [ ]
         },
         {
@@ -228,7 +228,7 @@
             "title": "data.locationPedestrian",
             "iconFA": "\uf554",
             "iconSF": "figure.walk",
-            "color": "#B084AC",
+            "color": "#044F67",
             "keywords": [
                 {
                     "scanner": 2,
@@ -241,7 +241,7 @@
             "title": "data.locationPrivate",
             "iconFA": "\uf023",
             "iconSF": "lock",
-            "color": "#5A4C4C",
+            "color": "#4D8FAC",
             "keywords": [
                 {
                     "scanner": 2,
@@ -254,7 +254,7 @@
             "title": "data.locationSchool",
             "iconFA": "\uf549",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#1F4788",
             "keywords": [ ]
         },
         
@@ -263,7 +263,7 @@
             "title": "data.photoFace",
             "iconFA": "\uf579",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#875F9A",
             "keywords": [ ]
         },
         {
@@ -271,7 +271,7 @@
             "title": "data.photoPlate",
             "iconFA": "\uf1b9",
             "iconSF": "car",
-            "color": "#004DB5",
+            "color": "#976E9A",
             "keywords": [
                 {
                     "scanner": 2,
@@ -284,7 +284,7 @@
             "title": "data.photoQuality",
             "iconFA": "\uf03e",
             "iconSF": "photo",
-            "color": "#5A715F",
+            "color": "#A87CA0",
             "keywords": [
                 {
                    "scanner": 2,
@@ -297,7 +297,7 @@
             "title": "data.photoDir",
             "iconFA": "\uf021",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#5B3256",
             "keywords": [ ]
         },
         {
@@ -305,7 +305,7 @@
             "title": "data.photoTag",
             "iconFA": "\uf3e0",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#763568",
             "keywords": [ ]
         },
         {
@@ -321,7 +321,7 @@
             "title": "data.photoWatermark",
             "iconFA": "\uf02b",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#BB7796",
             "keywords": [ ]
         },
 
@@ -330,7 +330,7 @@
             "title": "data.textEmoji",
             "iconFA": "\uf588",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#9F7462",
             "keywords": [ ]
         },
         {
@@ -338,7 +338,7 @@
             "title": "data.textBad",
             "iconFA": "\uf039",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#B64925",
             "keywords": [ ]
         },
         {
@@ -346,7 +346,7 @@
             "title": "data.textMarkup",
             "iconFA": "\uf121",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#F57F4F",
             "keywords": [ ]
         },
 
@@ -355,7 +355,7 @@
             "title": "data.abuseFake",
             "iconFA": "\uf6e2",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#B95754",
             "keywords": [ ]
         },
         {
@@ -363,7 +363,7 @@
             "title": "data.abuseAbuse",
             "iconFA": "\ue064",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#C91F37",
             "keywords": [ ]
         },
         {
@@ -371,7 +371,7 @@
             "title": "data.abuseExplicit",
             "iconFA": "\uf5a5",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#9D2933",
             "keywords": [ ]
         },
         {
@@ -379,7 +379,7 @@
             "title": "data.abuseOffensive",
             "iconFA": "\uf556",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#7B3B3A",
             "keywords": [ ]
         },
         {
@@ -387,7 +387,7 @@
             "title": "data.abusePersonal",
             "iconFA": "\uf21b",
             "iconSF": "xmark.circle",
-            "color": "#FF0000",
+            "color": "#97645A",
             "keywords": [ ]
         }
     ]

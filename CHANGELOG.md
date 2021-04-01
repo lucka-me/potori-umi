@@ -6,6 +6,9 @@ Noteable changes of Potori Umi will be documented here.
 - Reason: Duplicated - zh
 - All other reasons in Wayfarer, without keywords
 
+### Changed
+- Use shade of color for reason series
+
 ## `12` - 2021-03-21
 ### Fixed
 - Title key of reason: Pedestrian
