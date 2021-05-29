@@ -1,5 +1,5 @@
 {
-    "version": "13",
+    "version": "14",
     "scanners": [
         {
             "code": 0,
@@ -221,7 +221,12 @@
             "iconFA": "\uf0f9",
             "iconSF": "staroflife",
             "color": "#006C7F",
-            "keywords": [ ]
+            "keywords": [
+                {
+                    "scanner": 2,
+                    "keywords": [ "driveway of emergency services" ]
+                }
+            ]
         },
         {
             "code": 341,

@@ -1,7 +1,11 @@
 # Changelog
 Noteable changes of Potori Umi will be documented here.
 
-## `13` - 2021-04-TBA
+## `14` - 2021-05-29
+### Added
+- Keyword of reason: Emergency - en
+
+## `13` - 2021-04-01
 ### Added
 - Reason: Duplicated - zh
 - All other reasons in Wayfarer, without keywords
@@ -9,12 +13,12 @@ Noteable changes of Potori Umi will be documented here.
 ### Changed
 - Use shade of color for reason series
 
+<details><summary>Earlier</summary>
+<p>
+
 ## `12` - 2021-03-21
 ### Fixed
 - Title key of reason: Pedestrian
-
-<details><summary>Earlier</summary>
-<p>
 
 ## `11` - 2021-03-16
 ### Added

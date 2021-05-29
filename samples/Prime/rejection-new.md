@@ -84,6 +84,17 @@ Insufficient evidence that the nomination accurately reflects the submitted real
 </p>
 </details>
 
+### Emergency
+<details><summary>en</summary>
+<p>
+
+```
+The real-world location of the nomination appears to obstruct the driveway of emergency services or may interfere with the operations of fire stations, police stations, hospitals, military bases, industrial sites, power plants, or air traffic control towers
+```
+
+</p>
+</details>
+
 ### Pedestrian
 <details><summary>en</summary>
 <p>
