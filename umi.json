@@ -1,5 +1,5 @@
 {
-    "version": "14",
+    "version": "15",
     "scanners": [
         {
             "code": 0,
@@ -12,6 +12,10 @@
         {
             "code": 2,
             "title": "Prime"
+        },
+        {
+            "code": 3,
+            "title": "GO"
         }
     ],
     "statuses": [
@@ -24,11 +28,14 @@
                 {
                     "scanner": 1,
                     "query": "{from:ingress-support@nianticlabs.com from:ingress-support@google.com} {subject:\"Portal submission confirmation\" subject:\"Ingress Portal Submitted\"} -edit -photo"
-                    
                 },
                 {
                     "scanner": 2,
                     "query": "from:nominations@portals.ingress.com subject:(\"能量塔提交確認\" OR \"Portal申請の受領確認\" OR \"Portal submission confirmation\") -AP"
+                },
+                {
+                    "scanner": 3,
+                    "query": "from:hello@pokemongolive.com {subject:收到你的寶可補給站申請了 \"Nominating a PokéStop for Review\"}"
                 }
             ]
         },
@@ -45,6 +52,10 @@
                 {
                     "scanner": 2,
                     "query": "from:nominations@portals.ingress.com Intel Map AP"
+                },
+                {
+                    "scanner": 3,
+                    "query": "from:hello@pokemongolive.com {subject:成為候補之一囉 subject:\"Nomination Is Eligible\"}"
                 }
             ]
         },
@@ -61,6 +72,10 @@
                 {
                     "scanner": 2,
                     "query": "from:nominations@portals.ingress.com subject:(\"能量塔審查完畢\" OR \"Portal審査の完了\" OR \"Portal review complete\") -AP"
+                },
+                {
+                    "scanner": 3,
+                    "query": "from:hello@pokemongolive.com {subject:請確認寶可補給站的申請結果 subject:\"Nomination Is Ineligible\" (subject:\"Nomination Review Is Complete\" \"unfortunately\")}"
                 }
             ]
         }
@@ -88,6 +103,10 @@
                 {
                     "scanner": 2,
                     "keywords": [ "duplicate of an existing Portal", "和現有能量塔重復" ]
+                },
+                {
+                    "scanner": 3,
+                    "keywords": [ "it’s already in our system" ]
                 }
             ]
         },
@@ -127,6 +146,10 @@
                 {
                     "scanner": 2,
                     "keywords": [ "meet acceptance criteria" ]
+                },
+                {
+                    "scanner": 3,
+                    "keywords": [ "meet acceptance criteria" ]
                 }
             ]
         },
@@ -147,6 +170,10 @@
             "keywords": [
                 {
                     "scanner": 2,
+                    "keywords": [ "be a natural feature" ]
+                },
+                {
+                    "scanner": 3,
                     "keywords": [ "be a natural feature" ]
                 }
             ]
@@ -169,6 +196,10 @@
                 {
                     "scanner": 2,
                     "keywords": [ "seasonal display" ]
+                },
+                {
+                    "scanner": 3,
+                    "keywords": [ "seasonal display" ]
                 }
             ]
         },
@@ -181,6 +212,10 @@
             "keywords": [
                 {
                     "scanner": 2,
+                    "keywords": [ "generic store" ]
+                },
+                {
+                    "scanner": 3,
                     "keywords": [ "generic store" ]
                 }
             ]
@@ -212,6 +247,10 @@
                 {
                     "scanner": 2,
                     "keywords": [ "accurately reflects the submitted" ]
+                },
+                {
+                    "scanner": 3,
+                    "keywords": [ "accurately reflects the submitted" ]
                 }
             ]
         },
@@ -238,6 +277,10 @@
                 {
                     "scanner": 2,
                     "keywords": [ "acceptable pedestrian pathway" ]
+                },
+                {
+                    "scanner": 3,
+                    "keywords": [ "acceptable pedestrian pathway" ]
                 }
             ]
         },
@@ -250,6 +293,10 @@
             "keywords": [
                 {
                     "scanner": 2,
+                    "keywords": [ "private residential" ]
+                },
+                {
+                    "scanner": 3,
                     "keywords": [ "private residential" ]
                 }
             ]
@@ -281,6 +328,10 @@
                 {
                     "scanner": 2,
                     "keywords": [ "license plate" ]
+                },
+                {
+                    "scanner": 3,
+                    "keywords": [ "license plate" ]
                 }
             ]
         },
@@ -294,7 +345,11 @@
                 {
                    "scanner": 2,
                    "keywords": [ "Photo is low quality" ]
-                }
+                },
+                {
+                    "scanner": 3,
+                    "keywords": [ "Photo is low quality" ]
+                 }
             ]
         },
         {

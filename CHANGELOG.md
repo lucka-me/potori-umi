@@ -1,9 +1,16 @@
 # Changelog
 Noteable changes of Potori Umi will be documented here.
 
+## `15` - 2021-08-01
+### Added
+- Incomplete support for Pokémon GO
+
 ## `14` - 2021-05-29
 ### Added
 - Keyword of reason: Emergency - en
+
+<details><summary>Earlier</summary>
+<p>
 
 ## `13` - 2021-04-01
 ### Added
@@ -12,9 +19,6 @@ Noteable changes of Potori Umi will be documented here.
 
 ### Changed
 - Use shade of color for reason series
-
-<details><summary>Earlier</summary>
-<p>
 
 ## `12` - 2021-03-21
 ### Fixed

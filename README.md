@@ -8,6 +8,7 @@ We use mail samples to figure out how to:
 Available Scanners:
 - [Redacted](./samples/Redacted)
 - [Prime](./samples/Prime)
+- [GO](./samples/GO)
 
 ## Changelog
 See [CHANGELOG.md](./CHANGELOG.md).
