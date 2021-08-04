@@ -1,16 +1,20 @@
 # Changelog
 Noteable changes of Potori Umi will be documented here.
 
+## `16` - 2021-08-04
+### Fixed
+- Keyword of reason: Duplicated - zh
+
 ## `15` - 2021-08-01
 ### Added
 - Incomplete support for Pokémon GO
 
+<details><summary>Earlier</summary>
+<p>
+
 ## `14` - 2021-05-29
 ### Added
 - Keyword of reason: Emergency - en
-
-<details><summary>Earlier</summary>
-<p>
 
 ## `13` - 2021-04-01
 ### Added
