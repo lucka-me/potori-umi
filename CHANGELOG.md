@@ -1,20 +1,26 @@
 # Changelog
 Noteable changes of Potori Umi will be documented here.
 
+## `17` - 2021-10-13
+### Changed
+- Support new acceptance mails in zh
+
 ## `16` - 2021-08-04
 ### Fixed
 - Keyword of reason: Duplicated - zh
+
+<details><summary>Earlier</summary>
+<p>
 
 ## `15` - 2021-08-01
 ### Added
 - Incomplete support for Pokémon GO
 
-<details><summary>Earlier</summary>
-<p>
 
 ## `14` - 2021-05-29
 ### Added
 - Keyword of reason: Emergency - en
+
 
 ## `13` - 2021-04-01
 ### Added
@@ -24,9 +30,11 @@ Noteable changes of Potori Umi will be documented here.
 ### Changed
 - Use shade of color for reason series
 
+
 ## `12` - 2021-03-21
 ### Fixed
 - Title key of reason: Pedestrian
+
 
 ## `11` - 2021-03-16
 ### Added

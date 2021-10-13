@@ -1,5 +1,5 @@
 {
-    "version": "16",
+    "version": "17",
     "scanners": [
         {
             "code": 0,
@@ -51,7 +51,7 @@
                 },
                 {
                     "scanner": 2,
-                    "query": "from:nominations@portals.ingress.com Intel Map AP"
+                    "query": "from:nominations@portals.ingress.com {\"Intel Map\" \"情报地图\"} AP"
                 },
                 {
                     "scanner": 3,
