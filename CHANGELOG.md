@@ -1,16 +1,22 @@
 # Changelog
 Noteable changes of Potori Umi will be documented here.
 
+## `18` - 2021-11-05
+### Added
+- Reason: Cultural - en
+- Reason: Niantic - en, zh
+
 ## `17` - 2021-10-13
 ### Changed
 - Support new acceptance mails in zh
+
+<details><summary>Earlier</summary>
+<p>
 
 ## `16` - 2021-08-04
 ### Fixed
 - Keyword of reason: Duplicated - zh
 
-<details><summary>Earlier</summary>
-<p>
 
 ## `15` - 2021-08-01
 ### Added

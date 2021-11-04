@@ -1,5 +1,5 @@
 {
-    "version": "17",
+    "version": "18",
     "scanners": [
         {
             "code": 0,
@@ -115,7 +115,7 @@
             "title": "data.close",
             "iconFA": "\uf547",
             "iconSF": "ruler",
-            "color": "#009345",
+            "color": "#C77A3A",
             "keywords": [
                 {
                     "scanner": 1,
@@ -124,6 +124,32 @@
                 {
                     "scanner": 2,
                     "keywords": [ "能量塔過近", "too close to" ]
+                }
+            ]
+        },
+        {
+            "code": 112,
+            "title": "data.cultural",
+            "iconFA": "\uf530",
+            "iconSF": "eyeglasses",
+            "color": "#009345",
+            "keywords": [
+                {
+                    "scanner": 2,
+                    "keywords": [ "culturally significant" ]
+                }
+            ]
+        },
+        {
+            "code": 131,
+            "title": "data.niantic",
+            "iconFA": "\uf21a",
+            "iconSF": "ferry",
+            "color": "#423171",
+            "keywords": [
+                {
+                    "scanner": 2,
+                    "keywords": [ "Niantic 審查結果", "Niantic review decision" ]
                 }
             ]
         },

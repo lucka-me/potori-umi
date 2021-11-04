@@ -139,3 +139,36 @@ Photo is low quality (e.g., pitch black/blurry photos or photos taken from a car
 
 </p>
 </details>
+
+## Other
+### Cultural
+<details><summary>en</summary>
+<p>
+
+```
+The nomination does not appear to be historically or culturally significant
+```
+
+</p>
+</details>
+
+### Niantic
+<details><summary>en</summary>
+<p>
+
+```
+Niantic review decision
+```
+
+</p>
+</details>
+
+<details><summary>zh</summary>
+<p>
+
+```
+Niantic 審查結果
+```
+
+</p>
+</details>
